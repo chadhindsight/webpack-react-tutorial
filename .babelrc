@@ -1,0 +1,4 @@
+// Babel transpiles newer js so older browsers can understand it
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
